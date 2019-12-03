@@ -57,6 +57,8 @@ For example:
 
 `Access free opportunistic cycles/ Researcher facilitation/ High throughput computing`
 
+![screenshot_4](/readme_images/screenshot_4.png)
+
 ## Sign-up Content:
 
 Files located in the `signup_content` directory.
@@ -65,4 +67,8 @@ Files located in the `signup_content` directory.
 
 `signup_instructions.md` will update/contain the sign-up instructions in a listed order.
 
+![screenshot_5](/readme_images/screenshot_5.png)
+
 `signup_modal.md` will update/contain the acceptable use policy.
+
+![screenshot_6](/readme_images/screenshot_6.png)
