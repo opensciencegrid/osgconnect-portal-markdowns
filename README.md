@@ -1,6 +1,7 @@
 # ci-connect-portal-markdowns
 
-Separate repo to keep track of editable markdown files. These markdown files will render in the connect portal.
+Separate repo to keep track of editable markdown files. These markdown files
+will render in the connect portal.
 
 ## Instructions to set up Webhooks:
 
@@ -25,10 +26,20 @@ You will be asked the following:
 
 For the Payload URL, just add the following url endpoint: `https://www-dev.ci-connect.net/webhooks/github`.
 
+For the Content Type, select `application/json`
+
+For "Which events would you like to trigger this webhook", select "Just the `push` events"
+
+Press save and your webhook is officially set up! Updating the markdown files
+in this repo will now automatically trigger the web portal to pull the latest
+files from this repo and update itself accordingly. Instructions/guide to the
+relevant markdown files below.
+
 
 ## Form Descriptions:
 
-These markdown files pertain to the content that appears on form input pop-overs (on hover). For best UI/UX, each should be limited to a one sentence description if possible.
+These markdown files pertain to the content that appears on form input pop-overs
+(on hover). For best UI/UX, each should be limited to a one sentence description if possible.
 
 ## Home Content:
 
