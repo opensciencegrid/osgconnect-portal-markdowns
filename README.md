@@ -10,9 +10,13 @@ Separate repo to keep track of editable markdown files. These markdown files wil
 
 2. Click on the Webhooks tab:
 
-![screenshot_2](/readme_images/screenshot_1.png)
+![screenshot_2](/readme_images/screenshot_2.png)
 
-And then click on the button labeled "add a webhook".
+3. Then click on the button labeled "add a webhook":
+
+![screenshot_3](/readme_images/screenshot_3.png)
+
+
 You will be asked the following:
 
 1. Payload URL
