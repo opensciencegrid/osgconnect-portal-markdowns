@@ -4,4 +4,4 @@ Acceptable Use Policy, editable via markdown files (/templates/markdowns/signup_
 
 2. Re-testing webhooks at 2:39pm
 
-3. Testing with multi-cmd webhooks 2
+3. Testing with multi-cmd webhooks, during meeting.
