@@ -72,3 +72,46 @@ Files located in the `signup_content` directory.
 `signup_modal.md` will update/contain the acceptable use policy.
 
 ![screenshot_6](/readme_images/screenshot_6.png)
+
+## Flash Messages:
+
+The flash messages are set in a config file within the `flash_messages`
+directory, named `flash_messages.cfg`. Each flash message route is set to a
+respective message. The names of the routes must not be changed, however, the
+message may be edited.
+
+Explanation of routes:
+
+`add_group_member` = Success message when adding member to project
+
+`admin_group_member` = Success message when updating member to admin status
+
+`approve_subgroup` = Success message when project request has been approved
+
+`create_group` = Success message when project is created
+
+`create_login_node` = Success message when login node is created
+
+`create_profile` = Success message when user creates account from the portal
+
+`create_subgroup` = Success message when sub-project is created
+
+`delete_group` = Message when project has been successfully deleted
+
+`deny_subgroup` = Message when project request has been successfully denied from the portal
+
+`edit_profile` = Success message when a user's profile information/edit has been updated
+
+`edit_subgroup` = Success message when a project's information/edit has been updated
+
+`edit_subgroup_requests` = Success message when a project request's information/edit has been updated
+
+`login_node_add_user` = Success message when adding user to a login node
+
+`login_node_remove_user` = Message when user has been successfully removed from a login node
+
+`remove_group_member` = Message when user has been successfully removed from a project
+
+`support` = Message when user submits an email message to the osg-support staff from the portal
+
+`view_group` = Message shown to users when they request to join a project
