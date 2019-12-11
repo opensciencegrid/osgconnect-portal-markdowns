@@ -80,7 +80,7 @@ directory, named `flash_messages.cfg`. Each flash message route is set to a
 respective message. The names of the routes must not be changed, however, the
 message may be edited.
 
-Explanation of routes:
+Explanation of routes within the `flash_messages.cfg` file:
 
 `add_group_member` = Success message when adding member to project
 
