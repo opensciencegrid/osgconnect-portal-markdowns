@@ -6,4 +6,4 @@ Acceptable Use Policy, editable via markdown files (/templates/markdowns/signup_
 
 3. Testing with multi-cmd webhooks, from new VM.
 
-4. Fourth push testing on new VM
+4. New push with Chris on Monday at 1:28pm
