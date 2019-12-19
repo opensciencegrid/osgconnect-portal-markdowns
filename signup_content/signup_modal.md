@@ -15,8 +15,7 @@ of Energy's Office of Science."
 `
 
 Additional information is available at
-[http://osgconnect.net/citations](http://osgconnect.net/citations) — see also
-[https://twiki.opensciencegrid.org/bin/view/Management/ScientificPublications](https://twiki.opensciencegrid.org/bin/view/Management/ScientificPublications).
+[http://osgconnect.net/citations](http://osgconnect.net/citations)
 
 3) You shall not use the GRID for any unlawful purpose and not (attempt to)
 breach or circumvent any GRID administrative or security controls.
