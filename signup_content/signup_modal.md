@@ -33,7 +33,7 @@ will be available at any time or that it will suit any purpose.
 
 7) Logged information, including information provided by you for registration
 purposes, shall be used for administrative, operational, accounting, monitoring
-and security purposes only. This information may be disclosed to other 
+and security purposes only. This information may be disclosed to other
 organizations anywhere in the world for these purposes. Although efforts are
 made to maintain confidentiality, no guarantees are given.
 
