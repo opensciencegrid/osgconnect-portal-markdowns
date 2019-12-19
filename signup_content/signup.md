@@ -1,1 +1,1 @@
-Sign Up for OSG Connect edited again
+Sign Up for OSG Connect
