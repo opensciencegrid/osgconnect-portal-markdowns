@@ -1,4 +1,4 @@
-# ci-connect-portal-markdowns
+# osg-connect-portal-markdowns
 
 Separate repo to keep track of editable markdown files. These markdown files
 will render in the connect portal.
@@ -24,7 +24,7 @@ You will be asked the following:
 2. Content Type
 3. Which events would you like to trigger this webhook?
 
-For the Payload URL, just add the following url endpoint: `https://www2.osgconnect.net/webhooks/github`.
+For the Payload URL, just add the following url endpoint: `https://www.osgconnect.net/webhooks/github`.
 
 For the Content Type, select `application/json`
 
