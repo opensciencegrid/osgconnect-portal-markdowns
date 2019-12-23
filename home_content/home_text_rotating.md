@@ -1,1 +1,1 @@
-Access free opportunistic cycles/ Researcher facilitation/ High throughput computing
+Access free opportunistic cycles/ Researcher facilitation/ High-throughput computing
