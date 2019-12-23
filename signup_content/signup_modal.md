@@ -4,7 +4,7 @@ conditions	of	use*:
 consistent	 with	 the	 stated	 goals,	 policies	 and	 conditions	 of	 use	 as	 defined	 by	 the	 body	 or	
 bodies	granting	you	access.
 2. You	 shall	 provide	 appropriate	 acknowledgement	 of	 support	 or	 citation	 for	 your	 use	 of	 the	
-resources/services	provided	as	required	by	the	body	or	bodies	granting	you	access.	More information on citing the Open Science Grid can be found here: https://support.opensciencegrid.org/support/solutions/articles/5000640421-acknowledging-the-open-science-grid
+resources/services	provided	as	required	by	the	body	or	bodies	granting	you	access.	More information on citing the Open Science Grid can be found [here](https://support.opensciencegrid.org/support/solutions/articles/5000640421-acknowledging-the-open-science-grid)
 3. You	shall	not	use	 the	 resources/services	 for	any	purpose	 that	is	unlawful	and	not	 (attempt	
 to)	breach	or	circumvent	any	administrative	or	security	controls.
 4. You	shall	respect	intellectual property	and	confidentiality	agreements.	
