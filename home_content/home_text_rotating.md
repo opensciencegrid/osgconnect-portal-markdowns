@@ -1,1 +1,1 @@
-Access free opportunistic cycles/ Researcher facilitation/ High-throughput computing
+Free computing power for US researchers / Research Computing Facilitation for all new users / High-Throughput Computing
