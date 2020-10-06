@@ -2,7 +2,8 @@
 conditions	of	use*:
 1. You	 shall	 only	 use	 the	 resources/services	 to	 perform work,	 or	 transmit	 or	 store	 data	
 consistent	 with	 the	 stated	 goals,	 policies	 and	 conditions	 of	 use	 as	 defined	 by	 the	 body	 or	
-bodies	granting	you	access.
+bodies	granting	you	access. In particular, **OSG Connect may only be used for work associated with research 
+and/or education efforts associated with an academic, government, or non-profit institution in the United States.**
 2. You	 shall	 provide	 appropriate	 acknowledgement	 of	 support	 or	 citation	 for	 your	 use	 of	 the	
 resources/services	provided	as	required	by	the	body	or	bodies	granting	you	access.	More information on citing the Open Science Grid can be found [here](https://support.opensciencegrid.org/support/solutions/articles/5000640421-acknowledging-the-open-science-grid)
 3. You	shall	not	use	 the	 resources/services	 for	any	purpose	 that	is	unlawful	and	not	 (attempt	
@@ -12,7 +13,7 @@ to)	breach	or	circumvent	any	administrative	or	security	controls.
 6. You	shall	keep	all	your	registered	information	correct	and	up	to	date.
 7. You	 shall	 immediately	 report	 any	 known	 or	 suspected	 security	 breach	 or	 misuse	 of	 the	
 resources/services	or	access	credentials	 to	 the	specified	incident	reporting	locations	and	 to	
-the	relevant	credential	issuing	authorities.
+the	relevant	credential-issuing	authorities.
 8. You	 use	 the	 resources/services	 at	 your	 own	 risk.	 There	 is	 no	 guarantee	 that	 the	
 resources/services	will	be	available	at	any	time	or	that	their	integrity	or	confidentiality	will	be	
 preserved	or	that	they	will	suit	any	purpose.
