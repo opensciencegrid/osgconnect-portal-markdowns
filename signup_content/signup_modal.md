@@ -4,6 +4,7 @@ conditions	of	use*:
 consistent	 with	 the	 stated	 goals,	 policies	 and	 conditions	 of	 use	 as	 defined	 by	 the	 body	 or	
 bodies	granting	you	access. In particular, **OSG Connect may only be used for work relevant to research 
 and/or education efforts associated with an academic, government, or non-profit institution in the United States.**
+A full set of [OSG Connect user policies is documented in the helpdesk](https://support.opensciencegrid.org/support/solutions/articles/12000074852-policies-for-using-osg-via-osg-connect-submit-servers).
 2. You	 shall	 provide	 appropriate	 acknowledgement	 of	 support	 or	 citation	 for	 your	 use	 of	 the	
 resources/services	provided	as	required	by	the	body	or	bodies	granting	you	access.	More information on citing the Open Science Grid can be found [here](https://support.opensciencegrid.org/support/solutions/articles/5000640421-acknowledging-the-open-science-grid)
 3. You	shall	not	use	 the	 resources/services	 for	any	purpose	 that	is	unlawful	and	not	 (attempt	
