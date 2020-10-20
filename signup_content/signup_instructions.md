@@ -6,7 +6,7 @@ OSG Connect provides access to the Open Science Grid, a distributed high through
 
 **The service is available only to researchers contributing to a US-based project at an academic, government, or non-profit organization.**  To register as a user, you will need an identity from a [CILogon](https://cilogon.org/)-enabled institution in the United States (US). If you ARE contributing to such a project, but do NOT have an affiliation with a relevant US-based academic, government, or non-profit organization, please first email us to discuss: support@osgconnect.net
 
-After clicking `Continue` below, you will be redirected to indicate your affiliation by selecting and signing into your institution via Globus and CILogon. **Once you have completed sign up, you will be contacted by a member of the OSG Research Facilitation team to discuss your computing needs and next steps. Please watch for an email via support@opensciencegrid.org to coordinate this meeting.**
+After clicking `Continue` below, you will be redirected to indicate your affiliation by selecting and signing into your institution via Globus and CILogon. **Once you have completed sign up, you will be contacted by a member of the OSG Research Facilitation team to discuss your computing needs and next steps. Please watch for an email from support@opensciencegrid.org to coordinate this meeting.**
 
 [ssh-key]: 12000027675
 [projects]: 5000634360
